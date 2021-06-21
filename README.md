@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Olá pessoal, Sou o Lucas:wave:
 
-:computer: Dev FullStack
+:computer: Dev FullStack :computer:
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TomiShelbi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
