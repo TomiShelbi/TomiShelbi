@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi there, I'm Lucas:wave:
+# Olá pessoal, Sou o Lucas:wave:
 
 :computer: Junior FullStack
 
