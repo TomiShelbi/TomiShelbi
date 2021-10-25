@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
 
+##
+
 ### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
