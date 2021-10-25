@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ##
 
-![Angular](https://icongr.am/devicon/angularjs-original.svg?size=120&color=currentColor)
+![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=90&color=currentColor)
 
 ### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
