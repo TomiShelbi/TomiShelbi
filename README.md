@@ -30,14 +30,12 @@ Here are some ideas to get you started:
 
 ## Pontos Fortes!!
 
-![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
+<img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 ![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
 <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
 <img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img height="50cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-
-![JavaScript]
-![JavaScript]
 
 
 ##
