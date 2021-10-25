@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasRafa13&show_icons=true&theme=outrun"/>
   <img height="180cm"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRafa13&layout=compact&theme=outrun&langs_count=10"/>
-  <img height="180cm"  src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod"/>
+  <img height="180cm"  src="https://github-readme-stats.vercel.app/api/wakatime?username=LucasRafa13"/>
   
  
 </div>
