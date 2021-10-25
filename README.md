@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-(https://icongr.am/devicon/angularjs-original.svg?size=120&color=currentColor)
+![Angular](https://icongr.am/devicon/angularjs-original.svg?size=120&color=currentColor)
 
 
 
