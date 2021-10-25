@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
 ##
 
+![Angular](https://icongr.am/devicon/angularjs-original.svg?size=120&color=currentColor)
+
 ### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -50,7 +52,7 @@ Here are some ideas to get you started:
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-![Angular](https://icongr.am/devicon/angularjs-original.svg?size=120&color=currentColor)
+
 
 
 
