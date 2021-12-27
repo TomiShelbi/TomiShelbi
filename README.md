@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Olá pessoal, Sou o Lucas:wave:
 
-:computer: Trabalho como Dev FullStack há 2 anos :computer:
+:computer: Trabalho como Dev FullStack há 2 anos e meio :computer:
 
 <div>
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=LucasRafa13&show_icons=true&theme=outrun"/>
