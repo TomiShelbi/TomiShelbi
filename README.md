@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <div>
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=LucasRafa13&show_icons=true&theme=outrun"/>
-  <img height="175cm"  src="https://github-readme-stats-beryl.vercel.app/api?username=LucasRafa13&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+  <img height="175cm"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRafa13&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats"/>
 </div>
 
 ## Pontos Fortes!!
