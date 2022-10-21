@@ -46,7 +46,9 @@ Here are some ideas to get you started:
 
 ##
 
-## Tecnologias cotidianas
+## ⚡ Tecnologias
+
+### Programming Languages:<br>
 
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
@@ -59,6 +61,8 @@ Here are some ideas to get you started:
 
 ##
 
+
+### Linkedin e Portfólio:<br>
 
 <div>
   
