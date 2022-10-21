@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Olá pessoal, Sou o Lucas:wave:
+# Olá pessoal, Sou o Lucas <img src="https://raw.githubusercontent.com/LucasRafa13/LucasRafa13/main/wave.gif" width="30px">
 
 :computer: Trabalho como Dev FullStack :computer:
 
