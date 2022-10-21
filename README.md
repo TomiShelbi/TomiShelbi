@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=LucasRafa13&show_icons=true&theme=outrun&include_all_commits=true"/>
   <img height="175cm"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRafa13&layout=compact&theme=outrun&custom_title=Linguagens&langs_count=8"/>
   <img height="133cm" href="https://github.com/ryo-ma/github-profile-trophy align="left" src="https://github-profile-trophy.vercel.app/?username=LucasRafa13&theme=dracula&row=2&column=6&margin-w=4&margin-h=8" alt="Trophies" /> 
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=LucasRafa13)](https://holopin.io/@LucasRafa13)
+  <img href="https://holopin.io/api/user/board?user=LucasRafa13"/>
 </div>
 
 ## Pontos Fortes!!
