@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </div>
 
 <div> 
-[![@Lucas Lima's Holopin board](https://holopin.io/api/user/board?user=lucasrafa13)](https://holopin.io/@lucasrafa13)
+<img height="133cm" href="https://holopin.io/api/user/board?user=lucasrafa13"/>
 <div/>
 
 ## Pontos Fortes!!
