@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 <div>
   
   <div>
-  <a href="https://www.linkedin.com/in/lucas-rafael-97a341185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-rafael-araujo-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://meu-portfolio-theta.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portifólio-000000?style=for-the-badge" target="_blank"></a>
   </div>
 
