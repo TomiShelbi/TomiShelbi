@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 <div>
   <img height="176em"  src="https://github-readme-stats.vercel.app/api?username=LucasRafa13&show_icons=true&theme=outrun&include_all_commits=true"/>
   <img height="176em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRafa13&layout=compact&theme=outrun&langs_count=6"/>
-  <img height="103.5cm" href="https://github.com/ryo-ma/github-profile-trophy align="left" src="https://github-profile-trophy.vercel.app/?username=LucasRafa13&theme=discord&column=-1&margin-w=4&margin-h=18" alt="Trophies" /> 
 </div>
 
 
