@@ -89,8 +89,6 @@ Here are some ideas to get you started:
 ### Linkedin e Portfólio:<br>
 
 <div>
-  
- ![Snake animation](https://github.com/Lucasrafa13/LucasRafa13/blob/output/github-contribution-grid-snake.svg)
 
   <div>
   <a href="https://www.linkedin.com/in/lucas-rafael-araujo-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
